@@ -196,6 +196,10 @@ _Belo Horizonte/MG_
 Vuex, React, Angular, Node    
 _São Paulo/SP_
 
+[DokeHost](https://dokehost.com.br)  
+Vuex, React, Angular, Node    
+_Uberlândia/MG_
+
 [DroneMapp](http://dronemapp.com.br)  
 Leaflet, Python    
 _Curitiba/PR_
